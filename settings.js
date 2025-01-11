@@ -44,6 +44,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Manu-MD&aZUzwZRI#LH2MZ0T_5IL7CyCL1D-R7zoGoSn4c5BtgqQ0vVmNECM",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "démon942",
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Manu-ofc-tech",
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "7ZG0UXQtZ03EyCp6eEnEoVLQYHNpde3XCCBw",
 };
